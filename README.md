@@ -16,7 +16,7 @@ AutoSpoof is an automated offensive cybersecurity tool designed for ethical hack
 
 1. Clone this repository:
    ```
-   git clone https://github.com/priy4n5hu/Auto-spoof.git
+   git clone https://github.com/SC0RPI0-V/Auto-spoof.git
    cd Auto-spoof
    ```
 2. Install dependencies:
