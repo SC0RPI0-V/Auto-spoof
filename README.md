@@ -15,8 +15,11 @@ AutoSpoof is an automated offensive cybersecurity tool designed for ethical hack
 ## Project structure
 Auto-spoof/
 ├── autospoof.py
+|
 ├── networkscanner.py
+|
 ├── arp_spoof.py
+
 ├── dns_spoof.py
 ├── clone_sites.py
 ├── README.md
