@@ -37,7 +37,7 @@ AutoSpoof is an automated offensive cybersecurity tool designed for ethical hack
 - Or run modules individually:
   - Network Scanner:
     ```bash
-    sudo python3 network_scanner.py
+    sudo python3 networkscanner.py
     ```
   - ARP Spoofer:
     ```bash
