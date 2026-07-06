@@ -32,7 +32,7 @@ AutoSpoof is an automated offensive cybersecurity tool designed for ethical hack
 
 - Run the full automated chain:
   ```bash
-  sudo python3 auto_spoof.py
+  sudo python3 autospoof.py
   ```
 - Or run modules individually:
   - Network Scanner:
