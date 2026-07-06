@@ -101,7 +101,7 @@ def print_banner():
 \____|__  /____/ |__|  \____/____  >|   __/ \____/ \____/|__|   
         \/                       \/  |__|                         
 
-            Coded by Priyanshu and Ishan Shridhar
+            Coded by Ishan Shridhar and Priyanshu
 Disclaimer: This tool is for educational and authorized penetration tests only. 
     Always obtain permission before use. Misuse may lead to legal consequences.
 ------------------------------------------------------------------
